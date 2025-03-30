@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "lazy_student"
+  site-url: "https://frankausberlin.github.io/lazy_student"
+  description: "A youtube transcription ai prompt tool"
+  repo-branch: main
+  repo-url: "https://github.com/frankausberlin/lazy_student"
